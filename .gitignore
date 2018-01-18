@@ -3,6 +3,7 @@
 !*.h
 !*.pro
 !*.qrc
+!/build
 #!/include
 #!/Eigen
 #!/data
