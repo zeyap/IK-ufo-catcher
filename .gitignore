@@ -1,6 +1,8 @@
 /*
 !*.cpp
 !*.h
+!*.pro
+!*.qrc
 #!/include
 #!/Eigen
 #!/data

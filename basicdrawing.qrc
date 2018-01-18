@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/arm1.png</file>
+        <file>image/arm2.png</file>
+        <file>image/arm3.png</file>
+        <file>image/catcher.png</file>
+        <file>image/bg.png</file>
+        <file>image/base.png</file>
+        <file>image/doll.png</file>
+        <file>image/catcher_0.png</file>
+    </qresource>
+</RCC>
